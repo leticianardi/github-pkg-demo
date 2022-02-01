@@ -1,7 +1,7 @@
 {
   "name": "@leticianardi/github-pkg-demo",
   "repository": {
-    "url": "git://github.com/leticianardi/github-pkg-demo"
+    "url": "git://github.com/leticianardi/github-pkg-demo.git"
   },
   "version": "1.0.0",
   "description": "",
